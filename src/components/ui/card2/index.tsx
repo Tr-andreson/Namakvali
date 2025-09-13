@@ -5,7 +5,7 @@ export const Card2 = () => {
   return (
     <div>
       <Link href="/product/Product1">
-        <img src="/banner/3.jpg" />
+        <img className="scale-90" src="/masala/2.png" />
 
       </Link>
       <h3>Flaboured Salt</h3>

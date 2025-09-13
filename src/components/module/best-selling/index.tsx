@@ -12,8 +12,8 @@ export const BestSelling = () => {
         <Card2 />
         <Card2 />
         <Card2 />
-        <Card2 />
-        <Card2 />
+        {/* <Card2 /> */}
+        {/* <Card2 /> */}
       </div>
       <div className="flex items-center justify-center">
         <Button label="View All" />

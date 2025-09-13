@@ -12,7 +12,7 @@ export const ShopByCategory = () => {
         <Card />
         <Card />
         <Card />
-        <Card />
+        {/* <Card /> */}
         <Card />
       </div>
       <div className='flex items-center justify-center mt-6'>
