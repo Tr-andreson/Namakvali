@@ -1,9 +1,13 @@
+import Link from "next/link"
 import { YellowButton } from "../yellowButton"
 
 export const Card2 = () => {
   return (
     <div>
-      <img src="./banner/3.jpg" />
+      <Link href="/product/Product1">
+        <img src="/banner/3.jpg" />
+
+      </Link>
       <h3>Flaboured Salt</h3>
       <div>
         <h4>Star</h4>

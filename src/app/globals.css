@@ -10,7 +10,7 @@ p {
 }
 
 .contain {
-  @apply container mx-auto px-4 lg:px-44
+  @apply container mx-auto px-4 lg:px-20
 }
 
 h6 {

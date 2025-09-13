@@ -1,11 +1,9 @@
-
-
 export const Banner = () => {
   return (
     <div className="relative">
       <img
         className="w-full h-[90vh] object-cover transition-transform duration-1000 ease-out"
-        src="./banner/3.jpg"
+        src="/banner/3.jpg"
         alt="Uttarakhand landscape banner"
       />
       <div className="absolute bottom-62 left-6 lg:left-36">

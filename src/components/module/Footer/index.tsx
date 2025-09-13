@@ -3,7 +3,7 @@ export const Footer = () => {
     <div>
       <img
         className="w-full h-[30vh]"
-        src="./footer/1.jpg" />
+        src="/footer/1.jpg" />
     </div>
   )
 }

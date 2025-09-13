@@ -12,8 +12,8 @@ export default function HomePage() {
 
   return (
     <>
-      <Header />
-      <Navbar />
+      {/* <Header /> */}
+      {/* <Navbar /> */}
       <Banner />
       <div className="contain mt-8">
         <ShopByCategory />
@@ -21,7 +21,6 @@ export default function HomePage() {
         <OrganicCooking />
       </div>
       <Feature />
-      <Footer />
     </ >
   )
 }

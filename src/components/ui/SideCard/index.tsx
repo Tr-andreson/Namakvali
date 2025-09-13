@@ -3,7 +3,7 @@ import { Button } from "../Button"
 export const SideCardLeft = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 my-4 gap-4">
-      <img className="" src={"./banner/3.jpg"} />
+      <img className="" src={"/banner/3.jpg"} />
       <div className="space-y-4 p-10">
         <h2>Try Our Pahadi Flavour Salt</h2>
         <h4>A flavoured salt with Himalayan herbs hand-ground in traditional Sil-Batta by women of the Namakwali community.</h4>
@@ -23,7 +23,7 @@ export const SideCardRight = () => {
         <Button label="Shop Now" />
       </div>
 
-      <img className="" src={"./banner/3.jpg"} />
+      <img className="" src={"/banner/3.jpg"} />
     </div>
   )
 }
